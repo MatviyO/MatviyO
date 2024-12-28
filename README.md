@@ -3,7 +3,7 @@
  🔭 I’m a full stack/mobile developer with more than 7 years of experience in web, and mobile, 
   backend development using javascript-typescript: 
 ## 🌱	web - React.js,  Next.js, Angular; 
-## 💬	mobile - React Native
+## 💬	mobile - React Native ( IOS, Android )
 ## 📫  backend - Nodejs, NestJs, ExpressJs
 ## ⚡   Cloud - AWS, Azure, Supabase, Firebase
  
