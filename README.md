@@ -1,10 +1,11 @@
 ## Hi there, I’m Oleh Matvii 👋
 
- 🔭 I’m a full stack/mobile developer with more than 7 years of experience in web, and mobile, backend development using javascript-typescript: 
-🌱	web - React.js,  Next.js, Angular; 
-💬	mobile - React Native
-📫  backend - Nodejs, NestJs, ExpressJs
-⚡   Cloud - AWS, Azure, Supabase, Firebase
+ 🔭 I’m a full stack/mobile developer with more than 7 years of experience in web, and mobile, 
+  backend development using javascript-typescript: 
+## 🌱	web - React.js,  Next.js, Angular; 
+## 💬	mobile - React Native
+## 📫  backend - Nodejs, NestJs, ExpressJs
+## ⚡   Cloud - AWS, Azure, Supabase, Firebase
  
 I’ve expertise in developing complex web interfaces, including CRM and CMS systems, custom dashboards, admin panels, e-commerce platforms, SaaS solutions, custom Dashboards, Admin panels, E-commerce platforms, and Complex web interfaces. Additionally, savvy in Cross-Platform(Hybrid) Android\IOS Mobile Development with React Native.
 
